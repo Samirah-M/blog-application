@@ -1,4 +1,3 @@
-// server/controllers/postController.js
 const db = require('../config/db');
 
 exports.createPost = (req, res) => {
