@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+.env
+
+logs
+*.log
+npm-debug.log*
+
+.DS_Store
+
+.vscode/
+
+package-lock.json
+
+
+
